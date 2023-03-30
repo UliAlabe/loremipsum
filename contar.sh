@@ -1,5 +1,3 @@
-#!/bin/bash
-
 # Iterar sobre todos los archivos .txt en el directorio actual
 for file in *.txt
 do
